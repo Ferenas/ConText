@@ -32,9 +32,9 @@ development of V-ICL in text recognition.
 
 - Removal-segmentation task connector to mutual benefit
 - SOTA in both text removal and segmentation tasks
-  <image src="docs/image.png" width="720px" />
+  <image src="docs/image.png" width="868px" />
 - Performing human-interactive in-context reasoning without training.
-<image src="docs/icl.png" width="720px" />
+  <image src="docs/icl.png" width="540px" />
 
 
 
