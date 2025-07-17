@@ -122,8 +122,9 @@ DownLoad the corresponding checkpoint of ConText (**context.pt**) or ConTextV (*
 
 | Model | TotalText Segmentation (fgIoU) | SCUENS Removal (PSNR)|
 |----------|----------|---|
-| [ConText] | 78.02 | 37.67 |
-| [ConTextV] | 85.19 | 40.83 |
+| ConText [🤗 huggingface](https://huggingface.co/ferenas/ConText)  | 78.02 | 37.67 |
+| ConTextV [🤗 huggingface](https://huggingface.co/ferenas/ConText)   | 85.19 | 40.83 |
+
 
 Put them in `$ckpt`, and then run the following command:
 ```
