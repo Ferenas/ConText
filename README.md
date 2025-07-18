@@ -9,7 +9,7 @@ ICML 2025, [[Paper]](https://arxiv.org/abs/2506.03799)
 
 
 <br>
-  
+
 <image src="docs/teaser.png" width="540px" />
 <br>
 
@@ -32,9 +32,17 @@ development of V-ICL in text recognition.
 
 - Removal-segmentation task connector to mutual benefit
 - SOTA in both text removal and segmentation tasks
-  <image src="docs/image.png" width="868px" />
+
+<div align="center">
+  <img src="docs/image.png" width="95%" height="95%" />
+</div>
+
 - Performing human-interactive in-context reasoning without training.
-  <image src="docs/icl.png" width="540px" />
+
+<div align="center">
+  <img src="docs/icl.png" width="65%" height="65%" />
+</div>
+
 
 
 
